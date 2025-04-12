@@ -1,6 +1,6 @@
-<!-- 👩‍💻 Coding GIF at the top -->
+<!-- 👋 Hello GIF at the top -->
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/hello-gif-4.gif" alt="Hello GIF" width="200"/>
+  <img src="https://media.giphy.com/media/5bQPV5DO6O9f97z8WR/giphy.gif" alt="Hello GIF" width="200"/>
 </p>
 
 ---

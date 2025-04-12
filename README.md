@@ -81,7 +81,3 @@ I'm **Ridhi Garg** — a **motivated Full Stack Web Developer** eager to step in
 
 ---
 
-<!-- 💻 Happy Coding Footer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/5bQPV5DO6O9f97z8WR/giphy.gif" alt="Happy Coding GIF" width="400"/>
-</p>

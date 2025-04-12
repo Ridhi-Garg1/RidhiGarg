@@ -1,6 +1,6 @@
-<!-- 👩‍💻 Coding Aesthetic GIF -->
+<!-- 👩‍💻 Coding GIF at the top -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/39/79/c43979f44cf170cb84d2b5c64767f735.gif" alt="Motivated Developer GIF" width="200"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding Hello World GIF" width="200"/>
 </p>
 
 ---

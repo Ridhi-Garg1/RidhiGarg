@@ -1,11 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ridhi Garg</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ridhigargofficial10@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridhigargofficial10@gmail.com" height="30" width="40" /></a>
+<!-- 👩‍💻 Coding Aesthetic GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c4/39/79/c43979f44cf170cb84d2b5c64767f735.gif" alt="Motivated Developer GIF" width="200"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 💁‍♀️ About Me
+
+I'm **Ridhi Garg** — a **motivated Full Stack Web Developer** eager to step into the corporate world. Ready to apply academic knowledge and problem-solving skills to contribute effectively to dynamic projects and grow professionally in a challenging work environment.
+
+- 🔭 **Currently working on:** Cartify – Full Stack eCommerce Website
+- 🌱 **Learning:** Advanced Backend Concepts, AI API Integration
+- 💬 **Ask me about:** MERN Stack (MongoDB, Express.js, React.js, Node.js), API Integration
+- 📫 **Reach me at:**  
+  📧 [ridhigargofficial20@gmail.com](mailto:ridhigargofficial20@gmail.com)  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/ridhi-garg-69292a359/)
+- ⚡ **Fun fact:** I enjoy coding while sipping coffee and listening to music 🎧☕
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`Java` • `JavaScript` • `Node.js` • `Express.js` • `React.js` • `HTML` • `CSS` • `Tailwind CSS`  
+
+**Databases & APIs:**  
+`MongoDB` • `REST APIs`  
+
+**Tools:**  
+`VS Code` • `GitHub` • `Postman`
+
+---
+
+## 🚀 Projects
+
+### 🛍 Cartify – Full Stack eCommerce Website  
+**Jan 2025 – Mar 2025**  
+**Tech Stack:** React.js, MongoDB, Express.js, Node.js (MERN Stack)  
+- Developed a dynamic eCommerce platform using MERN Stack  
+- Implemented product exploration, filtering, sorting, cart management, and customizable product variants  
+- Integrated multiple payment options: Cash on Delivery & Razorpay  
+- Built an admin dashboard for product uploads, deletions, and order management  
+- Developed RESTful backend APIs for product, user, and order management
+
+### 🎨 Imaginex – AI Image Generation Web Application  
+**Jan 2025 – Mar 2025**  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Razorpay  
+- Built a full-stack web application for AI-powered image generation  
+- Integrated ClipDrop API to generate images based on text prompts  
+- Implemented a secure user authentication system  
+- Developed a credit-based system with Razorpay integration for credit purchases
+
+### 🚚 FleetX – Backend Development for Instant Delivery Service  
+**Dec 2024 – Feb 2025**  
+**Tech Stack:** Node.js, MongoDB, JWT, Socket.io, Postman  
+- Developed backend for instant product delivery service (food, groceries, electronics)  
+- Used Socket.io for real-time updates and JWT for secure authentication  
+- Utilized MongoDB for data storage and performed API testing with Postman
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech), Chandigarh University**  
+📍 Mohali, India | 🎓 CGPA: 8.10 | 🗓 Graduation: 2024
+
+---
+
+## 🏅 Certifications
+
+- 🏆 Certificate of Excellence in **Frontend Development** – Coding Ninjas (2025)  
+- 🏆 Certificate of Excellence in **Backend Development** – Coding Ninjas (2025)
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** [ridhigargofficial20@gmail.com](mailto:ridhigargofficial20@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/ridhi-garg-69292a359](https://www.linkedin.com/in/ridhi-garg-69292a359/)
+
+---
+
+<!-- 💻 Happy Coding Footer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/5bQPV5DO6O9f97z8WR/giphy.gif" alt="Happy Coding GIF" width="400"/>
+</p>

@@ -1,6 +1,6 @@
 <!-- 👋 Hello GIF at the top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5bQPV5DO6O9f97z8WR/giphy.gif" alt="Hello GIF" width="200"/>
+  <img src="https://i.pinimg.com/originals/a9/40/a0/a940a0619cb2f9ec9229831576b673ab.gif" alt="Hello GIF" width="200"/>
 </p>
 
 ---

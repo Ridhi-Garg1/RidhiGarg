@@ -1,6 +1,6 @@
 <!-- 👩‍💻 Coding GIF at the top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding Hello World GIF" width="200"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/hello-gif-4.gif" alt="Hello GIF" width="200"/>
 </p>
 
 ---
